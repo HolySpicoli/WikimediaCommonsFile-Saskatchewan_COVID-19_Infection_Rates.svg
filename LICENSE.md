@@ -1,6 +1,11 @@
-# Attribution 4.0 International
+# Creative Commons Attribution 4.0 International
 
-Creative Commons Corporation ("Creative Commons") is not a law firm and
+Official translations of this license are available in
+[other languages](<#additional-languages-available>).
+
+-----------------------------------------------------------------------
+
+*Creative Commons Corporation ("Creative Commons") is not a law firm and
 does not provide legal services or legal advice. Distribution of
 Creative Commons public licenses does not create a lawyer-client or
 other relationship. Creative Commons makes its licenses and related
@@ -8,7 +13,9 @@ information available on an "as-is" basis. Creative Commons gives no
 warranties regarding its licenses, any material licensed under their
 terms and conditions, or any related information. Creative Commons
 disclaims all liability for damages resulting from their use to the
-fullest extent possible.
+fullest extent possible.*
+
+-----------------------------------------------------------------------
 
 ## Using Creative Commons Public Licenses
 
@@ -30,8 +37,8 @@ exhaustive, and do not form part of our licenses.
   material as expected. Licensors should clearly mark any
   material not subject to the license. This includes other CC-
   licensed material, or material used under an exception or
-  limitation to copyright. More considerations for licensors:
-  <https://wiki.creativecommons.org/Considerations_for_licensors>
+  limitation to copyright.
+  [More considerations for licensors.](<https://wiki.creativecommons.org/Considerations_for_licensors>)
 
 - **Considerations for the public:** By using one of our public
   licenses, a licensor grants the public permission to use the
@@ -46,9 +53,10 @@ exhaustive, and do not form part of our licenses.
   rights in the material. A licensor may make special requests,
   such as asking that all changes be marked or described.
   Although not required by our licenses, you are encouraged to
-  respect those requests where reasonable. More_considerations
-  for the public:
-  <https://wiki.creativecommons.org/Considerations_for_licensees>
+  respect those requests where reasonable.
+  [More considerations for the public.](<https://wiki.creativecommons.org/Considerations_for_licensees>)
+
+-----------------------------------------------------------------------
 
 ## Creative Commons Attribution 4.0 International Public License
 
@@ -61,7 +69,7 @@ these terms and conditions, and the Licensor grants You such rights in
 consideration of benefits the Licensor receives from making the
 Licensed Material available under these terms and conditions.
 
-### Section 1 -- Definitions
+### Section 1 — Definitions
 
 a. **Adapted Material** means material subject to Copyright and Similar
    Rights that is derived from or based upon the Licensed Material
@@ -122,9 +130,9 @@ j. **Sui Generis Database Rights** means rights other than copyright
    equivalent rights anywhere in the world.
 
 k. **You** means the individual or entity exercising the Licensed Rights
-   under this Public License. Your has a corresponding meaning.
+   under this Public License. **Your** has a corresponding meaning.
 
-### Section 2 -- Scope
+### Section 2 — Scope
 
 #### a. License grant
 
@@ -160,18 +168,18 @@ k. **You** means the individual or entity exercising the Licensed Rights
 
 5. **Downstream recipients.**
 
-   a. Offer from the Licensor -- Licensed Material. Every
-       recipient of the Licensed Material automatically
-       receives an offer from the Licensor to exercise the
-       Licensed Rights under the terms and conditions of this
-       Public License.
+   a. **Offer from the Licensor — Licensed Material.** Every
+      recipient of the Licensed Material automatically
+      receives an offer from the Licensor to exercise the
+      Licensed Rights under the terms and conditions of this
+      Public License.
 
-   b. No downstream restrictions. You may not offer or impose
-       any additional or different terms or conditions on, or
-       apply any Effective Technological Measures to, the
-       Licensed Material if doing so restricts exercise of the
-       Licensed Rights by any recipient of the Licensed
-       Material.
+   b. **No downstream restrictions.** You may not offer or impose
+      any additional or different terms or conditions on, or
+      apply any Effective Technological Measures to, the
+      Licensed Material if doing so restricts exercise of the
+      Licensed Rights by any recipient of the Licensed
+      Material.
 
 6. **No endorsement.** Nothing in this Public License constitutes or
    may be construed as permission to assert or imply that You
@@ -200,7 +208,7 @@ k. **You** means the individual or entity exercising the Licensed Rights
    licensing scheme. In all other cases the Licensor expressly
    reserves any right to collect such royalties.
 
-### Section 3 -- License Conditions.
+### Section 3 — License Conditions.
 
 Your exercise of the Licensed Rights is expressly made subject to the
 following conditions.
@@ -213,21 +221,21 @@ following conditions.
    A. retain the following if it is supplied by the Licensor
       with the Licensed Material:
 
-      i. identification of the creator(s) of the Licensed
-         Material and any others designated to receive
-         attribution, in any reasonable manner requested by
-         the Licensor (including by pseudonym if
-         designated);
+      i.  identification of the creator(s) of the Licensed
+          Material and any others designated to receive
+          attribution, in any reasonable manner requested by
+          the Licensor (including by pseudonym if
+          designated);
 
-      ii. a copyright notice;
+      ii.  a copyright notice;
 
-      iii. a notice that refers to this Public License;
+      iii.  a notice that refers to this Public License;
 
-      iv. a notice that refers to the disclaimer of
-          warranties;
+      iv.  a notice that refers to the disclaimer of
+           warranties;
 
-      v. a URI or hyperlink to the Licensed Material to the
-         extent reasonably practicable;
+      v.  a URI or hyperlink to the Licensed Material to the
+          extent reasonably practicable;
 
    B. indicate if You modified the Licensed Material and
       retain an indication of any previous modifications; and
@@ -251,7 +259,7 @@ following conditions.
    License You apply must not prevent recipients of the Adapted
    Material from complying with this Public License.
 
-### Section 4 -- Sui Generis Database Rights.
+### Section 4 — Sui Generis Database Rights.
 
 Where the Licensed Rights include Sui Generis Database Rights that
 apply to Your use of the Licensed Material:
@@ -272,7 +280,7 @@ For the avoidance of doubt, this Section 4 supplements and does not
 replace Your obligations under this Public License where the Licensed
 Rights include other Copyright and Similar Rights.
 
-### Section 5 -- Disclaimer of Warranties and Limitation of Liability.
+### Section 5 — Disclaimer of Warranties and Limitation of Liability.
 
 a. **UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE
    EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS
@@ -300,7 +308,7 @@ c. The disclaimer of warranties and limitation of liability provided
    possible, most closely approximates an absolute disclaimer and
    waiver of all liability.
 
-### Section 6 -- Term and Termination.
+### Section 6 — Term and Termination.
 
 a. This Public License applies for the term of the Copyright and
    Similar Rights licensed here. However, if You fail to comply with
@@ -325,10 +333,15 @@ c. For the avoidance of doubt, the Licensor may also offer the
    distributing the Licensed Material at any time; however, doing so
    will not terminate this Public License.
 
-d. Sections 1, 5, 6, 7, and 8 survive termination of this Public
-   License.
+d. Sections
+   [1](<#section-1-—-definitions>),
+   [5](<#section-5-—-disclaimer-of-warranties-and-limitation-of-liability>),
+   [6](<#section-6-—-term-and-termination>),
+   [7](<#section-7-—-other-terms-and-conditions>), and
+   [8](<#section-8-—-interpretation>)
+   survive termination of this Public License.
 
-### Section 7 -- Other Terms and Conditions.
+### Section 7 — Other Terms and Conditions.
 
 a. The Licensor shall not be bound by any additional or different
    terms or conditions communicated by You unless expressly agreed.
@@ -337,7 +350,7 @@ b. Any arrangements, understandings, or agreements regarding the
    Licensed Material not stated herein are separate from and
    independent of the terms and conditions of this Public License.
 
-### Section 8 -- Interpretation.
+### Section 8 — Interpretation.
 
 a. For the avoidance of doubt, this Public License does not, and
    shall not be interpreted to, reduce, limit, restrict, or impose
@@ -365,16 +378,53 @@ d. Nothing in this Public License constitutes or may be interpreted
 Creative Commons is not a party to its public licenses.
 Notwithstanding, Creative Commons may elect to apply one of its public
 licenses to material it publishes and in those instances will be
-considered the "Licensor." Except for the limited purpose of indicating
-that material is shared under a Creative Commons public license or as
-otherwise permitted by the Creative Commons policies published at
-<creativecommons.org/policies>, Creative Commons does not authorize the
-use of the trademark "Creative Commons" or any other trademark or logo
-of Creative Commons without its prior written consent including,
-without limitation, in connection with any unauthorized modifications
-to any of its public licenses or any other arrangements,
-understandings, or agreements concerning use of licensed material. For
-the avoidance of doubt, this paragraph does not form part of the public
-licenses.
+considered the "Licensor." The text of the Creative Commons public
+licenses is dedicated to the public domain under the
+[CC0 Public Domain Dedication](<https://creativecommons.org/publicdomain/zero/1.0/legalcode>).
+Except for the limited purpose of indicating that material is shared
+under a Creative Commons public license or as otherwise permitted by
+the Creative Commons policies published at
+[creativecommons.org/policies]<https://creativecommons.org/policies>,
+Creative Commons does not authorize the use of the trademark "Creative
+Commons" or any other trademark or logo of Creative Commons without its
+prior written consent including, without limitation, in connection with
+any unauthorized modifications to any of its public licenses or any
+other arrangements, understandings, or agreements concerning use of
+licensed material. For the avoidance of doubt, this paragraph does not
+form part of the public licenses.
 
-Creative Commons may be contacted at <creativecommons.org>.
+Creative Commons may be contacted at [creativecommons.org]<https://creativecommons.org>.
+
+-----------------------------------------------------------------------
+
+## Additional languages available:
+
+[العربية](<https://creativecommons.org/licenses/by/4.0/legalcode.ar>),
+[čeština](<https://creativecommons.org/licenses/by/4.0/legalcode.cs>),
+[Deutsch](<https://creativecommons.org/licenses/by/4.0/legalcode.de>),
+[Ελληνικά](<https://creativecommons.org/licenses/by/4.0/legalcode.el>),
+[Español](<https://creativecommons.org/licenses/by/4.0/legalcode.es>),
+[euskara](<https://creativecommons.org/licenses/by/4.0/legalcode.eu>),
+[suomeksi](<https://creativecommons.org/licenses/by/4.0/legalcode.fi>),
+[français](<https://creativecommons.org/licenses/by/4.0/legalcode.fr>),
+[hrvatski](<https://creativecommons.org/licenses/by/4.0/legalcode.hr>),
+[Bahasa Indonesia](<https://creativecommons.org/licenses/by/4.0/legalcode.id>),
+[italiano](<https://creativecommons.org/licenses/by/4.0/legalcode.it>),
+[日本語](<https://creativecommons.org/licenses/by/4.0/legalcode.ja>),
+[한국어](<https://creativecommons.org/licenses/by/4.0/legalcode.ko>),
+[Lietuvių](<https://creativecommons.org/licenses/by/4.0/legalcode.lt>),
+[latviski](<https://creativecommons.org/licenses/by/4.0/legalcode.lv>),
+[te reo Māori](<https://creativecommons.org/licenses/by/4.0/legalcode.mi>),
+[Nederlands](<https://creativecommons.org/licenses/by/4.0/legalcode.nl>),
+[norsk](<https://creativecommons.org/licenses/by/4.0/legalcode.no>),
+[polski](<https://creativecommons.org/licenses/by/4.0/legalcode.pl>),
+[português](<https://creativecommons.org/licenses/by/4.0/legalcode.pt>),
+[русский](<https://creativecommons.org/licenses/by/4.0/legalcode.ru>),
+[svenska](<https://creativecommons.org/licenses/by/4.0/legalcode.sv>),
+[Türkçe](<https://creativecommons.org/licenses/by/4.0/legalcode.tr>),
+[українська](<https://creativecommons.org/licenses/by/4.0/legalcode.uk>),
+[中文](<https://creativecommons.org/licenses/by/4.0/legalcode.zh-Hans>),
+[華語](<https://creativecommons.org/licenses/by/4.0/legalcode.zh-Hant>).
+Please read the
+[FAQ](<https://creativecommons.org/FAQ#officialtranslations>)
+for more information about official translations.
