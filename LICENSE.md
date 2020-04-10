@@ -1,10 +1,5 @@
 # Attribution 4.0 International
 
-Official translations of this license are available in
-[other languages](<#additional-languages-available>).
-
------------------------------------------------------------------------
-
 *Creative Commons Corporation ("Creative Commons") is not a law firm and
 does not provide legal services or legal advice. Distribution of
 Creative Commons public licenses does not create a lawyer-client or
@@ -14,8 +9,6 @@ warranties regarding its licenses, any material licensed under their
 terms and conditions, or any related information. Creative Commons
 disclaims all liability for damages resulting from their use to the
 fullest extent possible.*
-
------------------------------------------------------------------------
 
 ## Using Creative Commons Public Licenses
 
@@ -394,8 +387,6 @@ licensed material. For the avoidance of doubt, this paragraph does not
 form part of the public licenses.
 
 Creative Commons may be contacted at [creativecommons.org](<https://creativecommons.org>).
-
------------------------------------------------------------------------
 
 ## Additional languages available:
 
