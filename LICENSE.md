@@ -387,35 +387,3 @@ licensed material. For the avoidance of doubt, this paragraph does not
 form part of the public licenses.
 
 Creative Commons may be contacted at [creativecommons.org](<https://creativecommons.org>).
-
-## Additional languages available:
-
-[العربية](<https://creativecommons.org/licenses/by/4.0/legalcode.ar>),
-[čeština](<https://creativecommons.org/licenses/by/4.0/legalcode.cs>),
-[Deutsch](<https://creativecommons.org/licenses/by/4.0/legalcode.de>),
-[Ελληνικά](<https://creativecommons.org/licenses/by/4.0/legalcode.el>),
-[Español](<https://creativecommons.org/licenses/by/4.0/legalcode.es>),
-[euskara](<https://creativecommons.org/licenses/by/4.0/legalcode.eu>),
-[suomeksi](<https://creativecommons.org/licenses/by/4.0/legalcode.fi>),
-[français](<https://creativecommons.org/licenses/by/4.0/legalcode.fr>),
-[hrvatski](<https://creativecommons.org/licenses/by/4.0/legalcode.hr>),
-[Bahasa Indonesia](<https://creativecommons.org/licenses/by/4.0/legalcode.id>),
-[italiano](<https://creativecommons.org/licenses/by/4.0/legalcode.it>),
-[日本語](<https://creativecommons.org/licenses/by/4.0/legalcode.ja>),
-[한국어](<https://creativecommons.org/licenses/by/4.0/legalcode.ko>),
-[Lietuvių](<https://creativecommons.org/licenses/by/4.0/legalcode.lt>),
-[latviski](<https://creativecommons.org/licenses/by/4.0/legalcode.lv>),
-[te reo Māori](<https://creativecommons.org/licenses/by/4.0/legalcode.mi>),
-[Nederlands](<https://creativecommons.org/licenses/by/4.0/legalcode.nl>),
-[norsk](<https://creativecommons.org/licenses/by/4.0/legalcode.no>),
-[polski](<https://creativecommons.org/licenses/by/4.0/legalcode.pl>),
-[português](<https://creativecommons.org/licenses/by/4.0/legalcode.pt>),
-[русский](<https://creativecommons.org/licenses/by/4.0/legalcode.ru>),
-[svenska](<https://creativecommons.org/licenses/by/4.0/legalcode.sv>),
-[Türkçe](<https://creativecommons.org/licenses/by/4.0/legalcode.tr>),
-[українська](<https://creativecommons.org/licenses/by/4.0/legalcode.uk>),
-[中文](<https://creativecommons.org/licenses/by/4.0/legalcode.zh-Hans>),
-[華語](<https://creativecommons.org/licenses/by/4.0/legalcode.zh-Hant>).
-Please read the
-[FAQ](<https://creativecommons.org/FAQ#officialtranslations>)
-for more information about official translations.
