@@ -1,4 +1,4 @@
-# Creative Commons Attribution 4.0 International
+# Attribution 4.0 International
 
 Official translations of this license are available in
 [other languages](<#additional-languages-available>).
@@ -38,7 +38,7 @@ exhaustive, and do not form part of our licenses.
   material not subject to the license. This includes other CC-
   licensed material, or material used under an exception or
   limitation to copyright.
-  [More considerations for licensors.](<https://wiki.creativecommons.org/Considerations_for_licensors>)
+  [More considerations for licensors.](<https://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors>)
 
 - **Considerations for the public:** By using one of our public
   licenses, a licensor grants the public permission to use the
@@ -54,7 +54,7 @@ exhaustive, and do not form part of our licenses.
   such as asking that all changes be marked or described.
   Although not required by our licenses, you are encouraged to
   respect those requests where reasonable.
-  [More considerations for the public.](<https://wiki.creativecommons.org/Considerations_for_licensees>)
+  [More considerations for the public.](<https://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees>)
 
 -----------------------------------------------------------------------
 
@@ -334,11 +334,11 @@ c. For the avoidance of doubt, the Licensor may also offer the
    will not terminate this Public License.
 
 d. Sections
-   [1](<#section-1-—-definitions>),
-   [5](<#section-5-—-disclaimer-of-warranties-and-limitation-of-liability>),
-   [6](<#section-6-—-term-and-termination>),
-   [7](<#section-7-—-other-terms-and-conditions>), and
-   [8](<#section-8-—-interpretation>)
+   [1](<#section-1--definitions>),
+   [5](<#section-5--disclaimer-of-warranties-and-limitation-of-liability>),
+   [6](<#section-6--term-and-termination>),
+   [7](<#section-7--other-terms-and-conditions>), and
+   [8](<#section-8--interpretation>)
    survive termination of this Public License.
 
 ### Section 7 — Other Terms and Conditions.
@@ -384,7 +384,7 @@ licenses is dedicated to the public domain under the
 Except for the limited purpose of indicating that material is shared
 under a Creative Commons public license or as otherwise permitted by
 the Creative Commons policies published at
-[creativecommons.org/policies]<https://creativecommons.org/policies>,
+[creativecommons.org/policies](<https://creativecommons.org/policies>),
 Creative Commons does not authorize the use of the trademark "Creative
 Commons" or any other trademark or logo of Creative Commons without its
 prior written consent including, without limitation, in connection with
@@ -393,7 +393,7 @@ other arrangements, understandings, or agreements concerning use of
 licensed material. For the avoidance of doubt, this paragraph does not
 form part of the public licenses.
 
-Creative Commons may be contacted at [creativecommons.org]<https://creativecommons.org>.
+Creative Commons may be contacted at [creativecommons.org](<https://creativecommons.org>).
 
 -----------------------------------------------------------------------
 
