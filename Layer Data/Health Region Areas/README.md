@@ -5,7 +5,7 @@
     See LICENSE.md (https://github.com/HolySpicoli/WikimediaCommonsFile-Saskatchewan_COVID-19_Infection_Rates.svg/blob/master/LICENSE.md).
 -->
 
-# Health Region Data
+# Health Region Boundary Data
 
 Adapted from [Statistics Canada](<https://www.statcan.gc.ca/>),
 [Health Regions: Boundaries and Correspondence with Census Geography (82-402-X), December 14, 2018](<https://www150.statcan.gc.ca/n1/pub/82-402-x/82-402-x2018001-eng.htm>).

@@ -1,0 +1,25 @@
+# SPDX-License-Identifier: CC-BY-4.0
+
+# Copyright © 2020 HolySpicoli (https://github.com/HolySpicoli/).
+# Licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0/).
+# See LICENSE.md (https://github.com/HolySpicoli/WikimediaCommonsFile-Saskatchewan_COVID-19_Infection_Rates.svg/blob/master/LICENSE.md).
+
+# .gitattributes Documentation:
+# https://git-scm.com/docs/gitattributes
+
+# See also:
+# git config core.eol
+# https://git-scm.com/docs/git-config#Documentation/git-config.txt-coreeol
+
+# See also:
+# git config core.safecrlf
+# https://git-scm.com/docs/git-config#Documentation/git-config.txt-coresafecrlf
+
+# See also:
+# git config core.autocrlf
+# https://git-scm.com/docs/git-config#Documentation/git-config.txt-coreautocrlf
+
+# Enable git's automatic text-file detection on all files,
+# so all such files will have their line-endings normalized to line-feeds
+# upon commission to the repository.
+* text=auto

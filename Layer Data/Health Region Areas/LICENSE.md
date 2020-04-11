@@ -97,10 +97,10 @@ a. the name, crest, logos or other insignia or domain names of Statistics
    written authorization from the Treasury Board Secretariat. Request for
    authorization from the Treasury Board Secretariat may be addressed to:
 
-   <information@fip-pcim.gc.ca>
-   Federal Identity Program
-   Treasury Board of Canada Secretariat
-   300 Laurier Avenue West
+   <information@fip-pcim.gc.ca>  
+   Federal Identity Program  
+   Treasury Board of Canada Secretariat  
+   300 Laurier Avenue West  
    Ottawa, Canada K1A 0R5
 
 b. any annotation that may be interpreted as an endorsement by the Statistics
