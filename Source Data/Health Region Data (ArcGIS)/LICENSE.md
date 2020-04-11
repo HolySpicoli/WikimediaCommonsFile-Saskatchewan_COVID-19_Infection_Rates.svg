@@ -1,5 +1,5 @@
-Statistics Canada Open Licence
-==============================
+[Statistics Canada Open Licence](<https://www.statcan.gc.ca/eng/reference/licence>)
+===================================================================================
 
 This licence is issued on behalf of Her Majesty the Queen in Right of Canada,
 as represented by the Minister for Statistics Canada ("Statistics Canada") to

@@ -1,4 +1,4 @@
-# Attribution 4.0 International
+# [Attribution 4.0 International](<https://creativecommons.org/licenses/by/4.0/>)
 
 *Creative Commons Corporation ("Creative Commons") is not a law firm and
 does not provide legal services or legal advice. Distribution of
@@ -51,7 +51,7 @@ exhaustive, and do not form part of our licenses.
 
 -----------------------------------------------------------------------
 
-## Creative Commons Attribution 4.0 International Public License
+## [Creative Commons Attribution 4.0 International Public License](<https://creativecommons.org/licenses/by/4.0/legalcode>)
 
 By exercising the Licensed Rights (defined below), You accept and agree
 to be bound by the terms and conditions of this Creative Commons

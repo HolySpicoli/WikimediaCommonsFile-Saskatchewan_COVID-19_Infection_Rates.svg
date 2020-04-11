@@ -7,8 +7,8 @@
 
 # Health Region Boundary Data
 
-Adapted from [Statistics Canada](<https://www.statcan.gc.ca/>),
+Source: [Statistics Canada](<https://www.statcan.gc.ca/>),
 [Health Regions: Boundaries and Correspondence with Census Geography (82-402-X), December 14, 2018](<https://www150.statcan.gc.ca/n1/pub/82-402-x/82-402-x2018001-eng.htm>).
-This does not constitute an endorsement by Statistics Canada of this product.
+Reproduced and distributed on an "as is" basis with the permission of Statistics Canada.
 
 Available under the [Statistics Canada Open License](<https://www.statcan.gc.ca/eng/reference/licence>).
