@@ -13,7 +13,10 @@
    height="1000"
    id="svg120"
    sodipodi:docname="Saskatchewan_COVID-19_Infection_Rates.inkscape.svg"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:export-filename="./Saskatchewan_COVID-19_Infection_Rates.inkscape.svg.png"
+   inkscape:export-xdpi="25"
+   inkscape:export-ydpi="25">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -33,7 +36,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="0.5"
-     inkscape:cx="-60"
+     inkscape:cx="-405"
      inkscape:cy="521.5"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -401,18 +404,7 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
     <rdf:RDF>
       <rdf:Description
          dc:date="2020-04-06T00:00:00"
-         dc:description="Map of infection rates for the COVID-19 pandemic in Saskatchewan.
-
-Repository: https://github.com/HolySpicoli/WikimediaCommonsFile-Saskatchewan_COVID-19_Infection_Rates.svg
-
-Copyright © 2020 HolySpicoli (https://github.com/HolySpicoli).  Licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0/).
-
-Infection data: Government of Saskatchewan.  Cases and Risk of COVID-19 in Saskatchewan (https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/cases-and-risk-of-covid-19-in-saskatchewan).
-
-Population data: Statistics Canada.  Table 17-10-0134-01: Estimates of population (2016 Census and administrative data), by age group and sex for July 1st, Canada, provinces, territories, health regions (2018 boundaries) and peer groups (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710013401).
-
-Health region boundary data: https://www150.statcan.gc.ca/n1/pub/82-402-x/82-402-x2018001-eng.htm
-Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence with Census Geography (82-402-X), December 14, 2018.  This does not constitute an endorsement by Statistics Canada of this product.  Available under the Statistics Canada Open License (https://www.statcan.gc.ca/eng/reference/licence)."
+         dc:description="Map of infection rates for the COVID-19 pandemic in Saskatchewan.  Repository: https://github.com/HolySpicoli/WikimediaCommonsFile-Saskatchewan_COVID-19_Infection_Rates.svg  Copyright © 2020 HolySpicoli (https://github.com/HolySpicoli).  Licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0/).  Infection data: Government of Saskatchewan.  Cases and Risk of COVID-19 in Saskatchewan (https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/cases-and-risk-of-covid-19-in-saskatchewan).  Population data: Statistics Canada.  Table 17-10-0134-01: Estimates of population (2016 Census and administrative data), by age group and sex for July 1st, Canada, provinces, territories, health regions (2018 boundaries) and peer groups (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710013401).  Health region boundary data: https://www150.statcan.gc.ca/n1/pub/82-402-x/82-402-x2018001-eng.htm Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence with Census Geography (82-402-X), December 14, 2018.  This does not constitute an endorsement by Statistics Canada of this product.  Available under the Statistics Canada Open License (https://www.statcan.gc.ca/eng/reference/licence)."
          dc:identifier=""
          dc:title="Saskatchewan COVID-19 Infection Rates"
          dc:format="image/svg+xml">
@@ -455,7 +447,7 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
         </dc:creator>
         <dc:publisher>
           <cc:Agent>
-            <dc:title></dc:title>
+            <dc:title />
           </cc:Agent>
         </dc:publisher>
         <dc:type
