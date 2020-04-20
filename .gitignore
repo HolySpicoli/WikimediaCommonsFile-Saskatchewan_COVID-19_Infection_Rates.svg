@@ -23,6 +23,9 @@
 # !                 = negates a PREVIOUS match only (i.e. subsequent matches negate the negation).
 # \                 = escapes a pattern character.
 
+# Ignore the QGIS SVG output file, as we will apply canonicalization (C14N) to it, for better version control.
+/Build/Saskatchewan_COVID-19_Infection_Rates.qgis.svg
+
 # QGIS project backup files.
 **/*.qgs~
 

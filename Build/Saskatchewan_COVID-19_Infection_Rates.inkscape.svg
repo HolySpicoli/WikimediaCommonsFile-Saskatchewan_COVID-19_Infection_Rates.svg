@@ -7,10 +7,10 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="600"
+   height="1000"
    version="1.2"
    viewBox="0 0 1200 2000"
-   height="1000"
+   width="600"
    id="svg120"
    sodipodi:docname="Saskatchewan_COVID-19_Infection_Rates.inkscape.svg"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
@@ -35,9 +35,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.5"
-     inkscape:cx="-405"
-     inkscape:cy="521.5"
+     inkscape:zoom="0.9"
+     inkscape:cx="300"
+     inkscape:cy="500"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -64,33 +64,33 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
      style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
      transform="matrix(0.99667774,0,0,0.99800399,1.9933555,1.996008)">
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g8"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g10"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
     <g
-       transform="scale(7.87402)"
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
+       transform="scale(7.87402)"
        id="g12"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g14"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g18"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:#ffffff;fill-opacity:0;stroke:none">
@@ -101,69 +101,69 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
          style="vector-effect:none;fill-rule:evenodd" />
     </g>
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g20"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
     <g
-       transform="scale(7.87402)"
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
+       transform="scale(7.87402)"
        id="g22"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
     <g
-       transform="scale(7.87402)"
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
+       transform="scale(7.87402)"
        id="g24"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
     <g
-       transform="scale(7.87402)"
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
+       transform="scale(7.87402)"
        id="g26"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
     <g
-       transform="scale(7.87402)"
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
+       transform="scale(7.87402)"
        id="g28"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
     <g
-       transform="scale(7.87402)"
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
+       transform="scale(7.87402)"
        id="g30"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
     <g
-       transform="scale(7.87402)"
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
+       transform="scale(7.87402)"
        id="g32"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g36"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:#000000;fill-opacity:0;stroke:none">
       <rect
+         height="2000"
+         width="1200"
          x="0"
          y="0"
-         width="1200"
-         height="2000"
          id="rect34" />
     </g>
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g40"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:#ffdfe0;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
@@ -174,8 +174,8 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
          style="vector-effect:none;fill-rule:evenodd" />
     </g>
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g44"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:#ffc0c0;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
@@ -186,8 +186,8 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
          style="vector-effect:none;fill-rule:evenodd" />
     </g>
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g48"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:#ee7070;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
@@ -198,8 +198,8 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
          style="vector-effect:none;fill-rule:evenodd" />
     </g>
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g52"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:#ffdfe0;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
@@ -210,8 +210,8 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
          style="vector-effect:none;fill-rule:evenodd" />
     </g>
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g56"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:#ffdfe0;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
@@ -222,8 +222,8 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
          style="vector-effect:none;fill-rule:evenodd" />
     </g>
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g60"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:#ffc0c0;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
@@ -234,8 +234,8 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
          style="vector-effect:none;fill-rule:evenodd" />
     </g>
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g64"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:#ee7070;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
@@ -246,8 +246,8 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
          style="vector-effect:none;fill-rule:evenodd" />
     </g>
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g68"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:#c80200;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
@@ -258,8 +258,8 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
          style="vector-effect:none;fill-rule:evenodd" />
     </g>
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g74"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:#ffdfe0;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
@@ -275,8 +275,8 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
          style="vector-effect:none;fill-rule:evenodd" />
     </g>
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g80"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:#ffc0c0;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
@@ -292,8 +292,8 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
          style="vector-effect:none;fill-rule:evenodd" />
     </g>
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g84"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:#ffdfe0;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
@@ -304,8 +304,8 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
          style="vector-effect:none;fill-rule:evenodd" />
     </g>
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g88"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:#ffc0c0;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
@@ -316,8 +316,8 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
          style="vector-effect:none;fill-rule:evenodd" />
     </g>
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g92"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:#ee7070;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
@@ -328,8 +328,8 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
          style="vector-effect:none;fill-rule:evenodd" />
     </g>
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g96"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:#ffdfe0;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
@@ -340,8 +340,8 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
          style="vector-effect:none;fill-rule:evenodd" />
     </g>
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g100"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:#ffc0c0;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
@@ -352,49 +352,49 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
          style="vector-effect:none;fill-rule:evenodd" />
     </g>
     <g
-       transform="scale(7.87402)"
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
+       transform="scale(7.87402)"
        id="g102"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
     <g
-       transform="scale(7.87402)"
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
+       transform="scale(7.87402)"
        id="g104"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
     <g
-       transform="scale(7.87402)"
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
+       transform="scale(7.87402)"
        id="g106"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g108"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
     <g
-       transform="scale(7.87402)"
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
+       transform="scale(7.87402)"
        id="g110"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
     <g
-       transform="scale(7.87402)"
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
+       transform="scale(7.87402)"
        id="g112"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
     <g
-       font-style="normal"
        font-size="36.1111"
+       font-style="normal"
        font-weight="400"
        id="g114"
        style="font-style:normal;font-weight:400;font-size:36.11109924px;font-family:'.SF NS Text';fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
@@ -404,10 +404,21 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
     <rdf:RDF>
       <rdf:Description
          dc:date="2020-04-06T00:00:00"
-         dc:description="Map of infection rates for the COVID-19 pandemic in Saskatchewan.  Repository: https://github.com/HolySpicoli/WikimediaCommonsFile-Saskatchewan_COVID-19_Infection_Rates.svg  Copyright © 2020 HolySpicoli (https://github.com/HolySpicoli).  Licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0/).  Infection data: Government of Saskatchewan.  Cases and Risk of COVID-19 in Saskatchewan (https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/cases-and-risk-of-covid-19-in-saskatchewan).  Population data: Statistics Canada.  Table 17-10-0134-01: Estimates of population (2016 Census and administrative data), by age group and sex for July 1st, Canada, provinces, territories, health regions (2018 boundaries) and peer groups (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710013401).  Health region boundary data: https://www150.statcan.gc.ca/n1/pub/82-402-x/82-402-x2018001-eng.htm Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence with Census Geography (82-402-X), December 14, 2018.  This does not constitute an endorsement by Statistics Canada of this product.  Available under the Statistics Canada Open License (https://www.statcan.gc.ca/eng/reference/licence)."
+         dc:description="Map of infection rates for the COVID-19 pandemic in Saskatchewan.
+
+Repository: https://github.com/HolySpicoli/WikimediaCommonsFile-Saskatchewan_COVID-19_Infection_Rates.svg
+
+Copyright © 2020 HolySpicoli (https://github.com/HolySpicoli).  Licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0/).
+
+Infection data: Government of Saskatchewan.  Cases and Risk of COVID-19 in Saskatchewan (https://www.saskatchewan.ca/government/health-care-administration-and-provider-resources/treatment-procedures-and-guidelines/emerging-public-health-issues/2019-novel-coronavirus/cases-and-risk-of-covid-19-in-saskatchewan).
+
+Population data: Statistics Canada.  Table 17-10-0134-01: Estimates of population (2016 Census and administrative data), by age group and sex for July 1st, Canada, provinces, territories, health regions (2018 boundaries) and peer groups (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710013401).
+
+Health region boundary data: https://www150.statcan.gc.ca/n1/pub/82-402-x/82-402-x2018001-eng.htm
+Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence with Census Geography (82-402-X), December 14, 2018.  This does not constitute an endorsement by Statistics Canada of this product.  Available under the Statistics Canada Open License (https://www.statcan.gc.ca/eng/reference/licence)."
+         dc:format="image/svg+xml"
          dc:identifier=""
-         dc:title="Saskatchewan COVID-19 Infection Rates"
-         dc:format="image/svg+xml">
+         dc:title="Saskatchewan COVID-19 Infection Rates">
         <dc:creator>
           <rdf:Bag>
             <rdf:li>HolySpicoli (https://github.com/HolySpicoli)</rdf:li>
@@ -447,7 +458,7 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
         </dc:creator>
         <dc:publisher>
           <cc:Agent>
-            <dc:title />
+            <dc:title></dc:title>
           </cc:Agent>
         </dc:publisher>
         <dc:type
