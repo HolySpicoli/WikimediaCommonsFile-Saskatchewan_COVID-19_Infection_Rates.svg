@@ -1,0 +1,40 @@
+<qgis_style version="2">
+  <symbols>
+    <symbol alpha="1" clip_to_extent="1" force_rhr="0" name="Infection Rate Fill" type="fill">
+      <layer class="SimpleFill" enabled="1" locked="0" pass="0">
+        <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"></prop>
+        <prop k="color" v="224,224,224,255"></prop>
+        <prop k="joinstyle" v="bevel"></prop>
+        <prop k="offset" v="0,0"></prop>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"></prop>
+        <prop k="offset_unit" v="Pixel"></prop>
+        <prop k="outline_color" v="35,35,35,255"></prop>
+        <prop k="outline_style" v="solid"></prop>
+        <prop k="outline_width" v="3"></prop>
+        <prop k="outline_width_unit" v="Pixel"></prop>
+        <prop k="style" v="solid"></prop>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""></Option>
+            <Option name="properties" type="Map">
+              <Option name="fillColor" type="Map">
+                <Option name="active" type="bool" value="true"></Option>
+                <Option name="expression" type="QString" value="with_variable(&#xA;  'infection_rate',&#xA;  @infections / @population * @infection_per_pop,&#xA;  CASE&#xA;    WHEN @infection_rate > @infection_range_6&#xA;&#x9;  THEN project_color('Range_6_Color')&#xA;    WHEN @infection_rate > @infection_range_5&#xA;&#x9;  THEN project_color('Range_5_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_4&#xA;&#x9;  THEN project_color('Range_4_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_3&#xA;&#x9;  THEN project_color('Range_3_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_2&#xA;&#x9;  THEN project_color('Range_2_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_1&#xA;&#x9;  THEN project_color('Range_1_Color')&#xA;&#x9;ELSE&#xA;&#x9;  project_color('Range_0_Color')&#xA;  END&#xA;)"></Option>
+                <Option name="type" type="int" value="3"></Option>
+              </Option>
+              <Option name="outlineColor" type="Map">
+                <Option name="active" type="bool" value="true"></Option>
+                <Option name="expression" type="QString" value="project_color('Border_Color')"></Option>
+                <Option name="type" type="int" value="3"></Option>
+              </Option>
+            </Option>
+            <Option name="type" type="QString" value="collection"></Option>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps></colorramps>
+  <textformats></textformats>
+  <labelsettings></labelsettings>
+</qgis_style>

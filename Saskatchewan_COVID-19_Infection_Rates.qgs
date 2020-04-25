@@ -52,11 +52,11 @@
   <snapping-settings enabled="0" intersection-snapping="0" mode="2" tolerance="12" type="1" unit="1">
     <individual-layer-settings>
       <layer-setting enabled="0" id="HR_047a18a_e_98562c17_5912_4401_8f72_d5135d845df8" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="0" id="HR_047a18a_e_ab431e73_0c40_4026_943b_65291cdd438f" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="0" id="HR_047a18a_e_1446bfda_ba8b_470f_af86_9b94cb29ae1d" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="0" id="HR_047a18a_e_2c3c5fbf_2139_4844_9057_8b83fcd9d983" tolerance="12" type="1" units="1"></layer-setting>
-      <layer-setting enabled="0" id="HR_047a18a_e_ef99c43a_3389_4577_8204_a70c3b55b574" tolerance="12" type="1" units="1"></layer-setting>
       <layer-setting enabled="0" id="HR_047a18a_e_9a831361_ca17_49b5_9376_4f40bc959ded" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="0" id="HR_047a18a_e_ef99c43a_3389_4577_8204_a70c3b55b574" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="0" id="HR_047a18a_e_2c3c5fbf_2139_4844_9057_8b83fcd9d983" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="0" id="HR_047a18a_e_1446bfda_ba8b_470f_af86_9b94cb29ae1d" tolerance="12" type="1" units="1"></layer-setting>
+      <layer-setting enabled="0" id="HR_047a18a_e_ab431e73_0c40_4026_943b_65291cdd438f" tolerance="12" type="1" units="1"></layer-setting>
     </individual-layer-settings>
   </snapping-settings>
   <relations></relations>
@@ -231,7 +231,7 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
                   <Option name="properties" type="Map">
                     <Option name="fillColor" type="Map">
                       <Option name="active" type="bool" value="true"></Option>
-                      <Option name="expression" type="QString" value="with_variable(&#xA;  'infection_rate',&#xA;  @infections / @population * @infection_per_pop,&#xA;  CASE&#xA;    WHEN @infection_rate > @infection_range_5&#xA;&#x9;  THEN project_color('Range_5_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_4&#xA;&#x9;  THEN project_color('Range_4_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_3&#xA;&#x9;  THEN project_color('Range_3_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_2&#xA;&#x9;  THEN project_color('Range_2_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_1&#xA;&#x9;  THEN project_color('Range_1_Color')&#xA;&#x9;ELSE&#xA;&#x9;  project_color('Range_0_Color')&#xA;  END&#xA;)"></Option>
+                      <Option name="expression" type="QString" value="with_variable(&#xA;  'infection_rate',&#xA;  @infections / @population * @infection_per_pop,&#xA;  CASE&#xA;    WHEN @infection_rate > @infection_range_6&#xA;&#x9;  THEN project_color('Range_6_Color')&#xA;    WHEN @infection_rate > @infection_range_5&#xA;&#x9;  THEN project_color('Range_5_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_4&#xA;&#x9;  THEN project_color('Range_4_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_3&#xA;&#x9;  THEN project_color('Range_3_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_2&#xA;&#x9;  THEN project_color('Range_2_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_1&#xA;&#x9;  THEN project_color('Range_1_Color')&#xA;&#x9;ELSE&#xA;&#x9;  project_color('Range_0_Color')&#xA;  END&#xA;)"></Option>
                       <Option name="type" type="int" value="3"></Option>
                     </Option>
                     <Option name="outlineColor" type="Map">
@@ -314,7 +314,7 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
               </Option>
               <Option name="drawToAllParts" type="bool" value="false"></Option>
               <Option name="enabled" type="QString" value="0"></Option>
-              <Option name="lineSymbol" type="QString" value="&lt;symbol alpha=&quot;1&quot; clip_to_extent=&quot;1&quot; name=&quot;symbol&quot; force_rhr=&quot;0&quot; type=&quot;line&quot;>&lt;layer pass=&quot;0&quot; enabled=&quot;1&quot; locked=&quot;0&quot; class=&quot;SimpleLine&quot;>&lt;prop v=&quot;square&quot; k=&quot;capstyle&quot;/>&lt;prop v=&quot;5;2&quot; k=&quot;customdash&quot;/>&lt;prop v=&quot;3x:0,0,0,0,0,0&quot; k=&quot;customdash_map_unit_scale&quot;/>&lt;prop v=&quot;MM&quot; k=&quot;customdash_unit&quot;/>&lt;prop v=&quot;0&quot; k=&quot;draw_inside_polygon&quot;/>&lt;prop v=&quot;bevel&quot; k=&quot;joinstyle&quot;/>&lt;prop v=&quot;60,60,60,255&quot; k=&quot;line_color&quot;/>&lt;prop v=&quot;solid&quot; k=&quot;line_style&quot;/>&lt;prop v=&quot;0.3&quot; k=&quot;line_width&quot;/>&lt;prop v=&quot;MM&quot; k=&quot;line_width_unit&quot;/>&lt;prop v=&quot;0&quot; k=&quot;offset&quot;/>&lt;prop v=&quot;3x:0,0,0,0,0,0&quot; k=&quot;offset_map_unit_scale&quot;/>&lt;prop v=&quot;MM&quot; k=&quot;offset_unit&quot;/>&lt;prop v=&quot;0&quot; k=&quot;ring_filter&quot;/>&lt;prop v=&quot;0&quot; k=&quot;use_custom_dash&quot;/>&lt;prop v=&quot;3x:0,0,0,0,0,0&quot; k=&quot;width_map_unit_scale&quot;/>&lt;data_defined_properties>&lt;Option type=&quot;Map&quot;>&lt;Option name=&quot;name&quot; value=&quot;&quot; type=&quot;QString&quot;/>&lt;Option name=&quot;properties&quot;/>&lt;Option name=&quot;type&quot; value=&quot;collection&quot; type=&quot;QString&quot;/>&lt;/Option>&lt;/data_defined_properties>&lt;/layer>&lt;/symbol>"></Option>
+              <Option name="lineSymbol" type="QString" value="&lt;symbol clip_to_extent=&quot;1&quot; alpha=&quot;1&quot; force_rhr=&quot;0&quot; type=&quot;line&quot; name=&quot;symbol&quot;>&lt;layer enabled=&quot;1&quot; pass=&quot;0&quot; class=&quot;SimpleLine&quot; locked=&quot;0&quot;>&lt;prop k=&quot;capstyle&quot; v=&quot;square&quot;/>&lt;prop k=&quot;customdash&quot; v=&quot;5;2&quot;/>&lt;prop k=&quot;customdash_map_unit_scale&quot; v=&quot;3x:0,0,0,0,0,0&quot;/>&lt;prop k=&quot;customdash_unit&quot; v=&quot;MM&quot;/>&lt;prop k=&quot;draw_inside_polygon&quot; v=&quot;0&quot;/>&lt;prop k=&quot;joinstyle&quot; v=&quot;bevel&quot;/>&lt;prop k=&quot;line_color&quot; v=&quot;60,60,60,255&quot;/>&lt;prop k=&quot;line_style&quot; v=&quot;solid&quot;/>&lt;prop k=&quot;line_width&quot; v=&quot;0.3&quot;/>&lt;prop k=&quot;line_width_unit&quot; v=&quot;MM&quot;/>&lt;prop k=&quot;offset&quot; v=&quot;0&quot;/>&lt;prop k=&quot;offset_map_unit_scale&quot; v=&quot;3x:0,0,0,0,0,0&quot;/>&lt;prop k=&quot;offset_unit&quot; v=&quot;MM&quot;/>&lt;prop k=&quot;ring_filter&quot; v=&quot;0&quot;/>&lt;prop k=&quot;use_custom_dash&quot; v=&quot;0&quot;/>&lt;prop k=&quot;width_map_unit_scale&quot; v=&quot;3x:0,0,0,0,0,0&quot;/>&lt;data_defined_properties>&lt;Option type=&quot;Map&quot;>&lt;Option type=&quot;QString&quot; name=&quot;name&quot; value=&quot;&quot;/>&lt;Option name=&quot;properties&quot;/>&lt;Option type=&quot;QString&quot; name=&quot;type&quot; value=&quot;collection&quot;/>&lt;/Option>&lt;/data_defined_properties>&lt;/layer>&lt;/symbol>"></Option>
               <Option name="minLength" type="double" value="0"></Option>
               <Option name="minLengthMapUnitScale" type="QString" value="3x:0,0,0,0,0,0"></Option>
               <Option name="minLengthUnit" type="QString" value="MM"></Option>
@@ -603,7 +603,7 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
                   <Option name="properties" type="Map">
                     <Option name="fillColor" type="Map">
                       <Option name="active" type="bool" value="true"></Option>
-                      <Option name="expression" type="QString" value="with_variable(&#xA;  'infection_rate',&#xA;  @infections / @population * @infection_per_pop,&#xA;  CASE&#xA;    WHEN @infection_rate > @infection_range_5&#xA;&#x9;  THEN project_color('Range_5_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_4&#xA;&#x9;  THEN project_color('Range_4_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_3&#xA;&#x9;  THEN project_color('Range_3_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_2&#xA;&#x9;  THEN project_color('Range_2_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_1&#xA;&#x9;  THEN project_color('Range_1_Color')&#xA;&#x9;ELSE&#xA;&#x9;  project_color('Range_0_Color')&#xA;  END&#xA;)"></Option>
+                      <Option name="expression" type="QString" value="with_variable(&#xA;  'infection_rate',&#xA;  @infections / @population * @infection_per_pop,&#xA;  CASE&#xA;    WHEN @infection_rate > @infection_range_6&#xA;&#x9;  THEN project_color('Range_6_Color')&#xA;    WHEN @infection_rate > @infection_range_5&#xA;&#x9;  THEN project_color('Range_5_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_4&#xA;&#x9;  THEN project_color('Range_4_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_3&#xA;&#x9;  THEN project_color('Range_3_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_2&#xA;&#x9;  THEN project_color('Range_2_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_1&#xA;&#x9;  THEN project_color('Range_1_Color')&#xA;&#x9;ELSE&#xA;&#x9;  project_color('Range_0_Color')&#xA;  END&#xA;)"></Option>
                       <Option name="type" type="int" value="3"></Option>
                     </Option>
                     <Option name="outlineColor" type="Map">
@@ -686,7 +686,7 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
               </Option>
               <Option name="drawToAllParts" type="bool" value="false"></Option>
               <Option name="enabled" type="QString" value="0"></Option>
-              <Option name="lineSymbol" type="QString" value="&lt;symbol alpha=&quot;1&quot; clip_to_extent=&quot;1&quot; name=&quot;symbol&quot; force_rhr=&quot;0&quot; type=&quot;line&quot;>&lt;layer pass=&quot;0&quot; enabled=&quot;1&quot; locked=&quot;0&quot; class=&quot;SimpleLine&quot;>&lt;prop v=&quot;square&quot; k=&quot;capstyle&quot;/>&lt;prop v=&quot;5;2&quot; k=&quot;customdash&quot;/>&lt;prop v=&quot;3x:0,0,0,0,0,0&quot; k=&quot;customdash_map_unit_scale&quot;/>&lt;prop v=&quot;MM&quot; k=&quot;customdash_unit&quot;/>&lt;prop v=&quot;0&quot; k=&quot;draw_inside_polygon&quot;/>&lt;prop v=&quot;bevel&quot; k=&quot;joinstyle&quot;/>&lt;prop v=&quot;60,60,60,255&quot; k=&quot;line_color&quot;/>&lt;prop v=&quot;solid&quot; k=&quot;line_style&quot;/>&lt;prop v=&quot;0.3&quot; k=&quot;line_width&quot;/>&lt;prop v=&quot;MM&quot; k=&quot;line_width_unit&quot;/>&lt;prop v=&quot;0&quot; k=&quot;offset&quot;/>&lt;prop v=&quot;3x:0,0,0,0,0,0&quot; k=&quot;offset_map_unit_scale&quot;/>&lt;prop v=&quot;MM&quot; k=&quot;offset_unit&quot;/>&lt;prop v=&quot;0&quot; k=&quot;ring_filter&quot;/>&lt;prop v=&quot;0&quot; k=&quot;use_custom_dash&quot;/>&lt;prop v=&quot;3x:0,0,0,0,0,0&quot; k=&quot;width_map_unit_scale&quot;/>&lt;data_defined_properties>&lt;Option type=&quot;Map&quot;>&lt;Option name=&quot;name&quot; value=&quot;&quot; type=&quot;QString&quot;/>&lt;Option name=&quot;properties&quot;/>&lt;Option name=&quot;type&quot; value=&quot;collection&quot; type=&quot;QString&quot;/>&lt;/Option>&lt;/data_defined_properties>&lt;/layer>&lt;/symbol>"></Option>
+              <Option name="lineSymbol" type="QString" value="&lt;symbol clip_to_extent=&quot;1&quot; alpha=&quot;1&quot; force_rhr=&quot;0&quot; type=&quot;line&quot; name=&quot;symbol&quot;>&lt;layer enabled=&quot;1&quot; pass=&quot;0&quot; class=&quot;SimpleLine&quot; locked=&quot;0&quot;>&lt;prop k=&quot;capstyle&quot; v=&quot;square&quot;/>&lt;prop k=&quot;customdash&quot; v=&quot;5;2&quot;/>&lt;prop k=&quot;customdash_map_unit_scale&quot; v=&quot;3x:0,0,0,0,0,0&quot;/>&lt;prop k=&quot;customdash_unit&quot; v=&quot;MM&quot;/>&lt;prop k=&quot;draw_inside_polygon&quot; v=&quot;0&quot;/>&lt;prop k=&quot;joinstyle&quot; v=&quot;bevel&quot;/>&lt;prop k=&quot;line_color&quot; v=&quot;60,60,60,255&quot;/>&lt;prop k=&quot;line_style&quot; v=&quot;solid&quot;/>&lt;prop k=&quot;line_width&quot; v=&quot;0.3&quot;/>&lt;prop k=&quot;line_width_unit&quot; v=&quot;MM&quot;/>&lt;prop k=&quot;offset&quot; v=&quot;0&quot;/>&lt;prop k=&quot;offset_map_unit_scale&quot; v=&quot;3x:0,0,0,0,0,0&quot;/>&lt;prop k=&quot;offset_unit&quot; v=&quot;MM&quot;/>&lt;prop k=&quot;ring_filter&quot; v=&quot;0&quot;/>&lt;prop k=&quot;use_custom_dash&quot; v=&quot;0&quot;/>&lt;prop k=&quot;width_map_unit_scale&quot; v=&quot;3x:0,0,0,0,0,0&quot;/>&lt;data_defined_properties>&lt;Option type=&quot;Map&quot;>&lt;Option type=&quot;QString&quot; name=&quot;name&quot; value=&quot;&quot;/>&lt;Option name=&quot;properties&quot;/>&lt;Option type=&quot;QString&quot; name=&quot;type&quot; value=&quot;collection&quot;/>&lt;/Option>&lt;/data_defined_properties>&lt;/layer>&lt;/symbol>"></Option>
               <Option name="minLength" type="double" value="0"></Option>
               <Option name="minLengthMapUnitScale" type="QString" value="3x:0,0,0,0,0,0"></Option>
               <Option name="minLengthUnit" type="QString" value="MM"></Option>
@@ -975,7 +975,7 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
                   <Option name="properties" type="Map">
                     <Option name="fillColor" type="Map">
                       <Option name="active" type="bool" value="true"></Option>
-                      <Option name="expression" type="QString" value="with_variable(&#xA;  'infection_rate',&#xA;  @infections / @population * @infection_per_pop,&#xA;  CASE&#xA;    WHEN @infection_rate > @infection_range_5&#xA;&#x9;  THEN project_color('Range_5_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_4&#xA;&#x9;  THEN project_color('Range_4_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_3&#xA;&#x9;  THEN project_color('Range_3_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_2&#xA;&#x9;  THEN project_color('Range_2_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_1&#xA;&#x9;  THEN project_color('Range_1_Color')&#xA;&#x9;ELSE&#xA;&#x9;  project_color('Range_0_Color')&#xA;  END&#xA;)"></Option>
+                      <Option name="expression" type="QString" value="with_variable(&#xA;  'infection_rate',&#xA;  @infections / @population * @infection_per_pop,&#xA;  CASE&#xA;    WHEN @infection_rate > @infection_range_6&#xA;&#x9;  THEN project_color('Range_6_Color')&#xA;    WHEN @infection_rate > @infection_range_5&#xA;&#x9;  THEN project_color('Range_5_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_4&#xA;&#x9;  THEN project_color('Range_4_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_3&#xA;&#x9;  THEN project_color('Range_3_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_2&#xA;&#x9;  THEN project_color('Range_2_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_1&#xA;&#x9;  THEN project_color('Range_1_Color')&#xA;&#x9;ELSE&#xA;&#x9;  project_color('Range_0_Color')&#xA;  END&#xA;)"></Option>
                       <Option name="type" type="int" value="3"></Option>
                     </Option>
                     <Option name="outlineColor" type="Map">
@@ -1058,7 +1058,7 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
               </Option>
               <Option name="drawToAllParts" type="bool" value="false"></Option>
               <Option name="enabled" type="QString" value="0"></Option>
-              <Option name="lineSymbol" type="QString" value="&lt;symbol alpha=&quot;1&quot; clip_to_extent=&quot;1&quot; name=&quot;symbol&quot; force_rhr=&quot;0&quot; type=&quot;line&quot;>&lt;layer pass=&quot;0&quot; enabled=&quot;1&quot; locked=&quot;0&quot; class=&quot;SimpleLine&quot;>&lt;prop v=&quot;square&quot; k=&quot;capstyle&quot;/>&lt;prop v=&quot;5;2&quot; k=&quot;customdash&quot;/>&lt;prop v=&quot;3x:0,0,0,0,0,0&quot; k=&quot;customdash_map_unit_scale&quot;/>&lt;prop v=&quot;MM&quot; k=&quot;customdash_unit&quot;/>&lt;prop v=&quot;0&quot; k=&quot;draw_inside_polygon&quot;/>&lt;prop v=&quot;bevel&quot; k=&quot;joinstyle&quot;/>&lt;prop v=&quot;60,60,60,255&quot; k=&quot;line_color&quot;/>&lt;prop v=&quot;solid&quot; k=&quot;line_style&quot;/>&lt;prop v=&quot;0.3&quot; k=&quot;line_width&quot;/>&lt;prop v=&quot;MM&quot; k=&quot;line_width_unit&quot;/>&lt;prop v=&quot;0&quot; k=&quot;offset&quot;/>&lt;prop v=&quot;3x:0,0,0,0,0,0&quot; k=&quot;offset_map_unit_scale&quot;/>&lt;prop v=&quot;MM&quot; k=&quot;offset_unit&quot;/>&lt;prop v=&quot;0&quot; k=&quot;ring_filter&quot;/>&lt;prop v=&quot;0&quot; k=&quot;use_custom_dash&quot;/>&lt;prop v=&quot;3x:0,0,0,0,0,0&quot; k=&quot;width_map_unit_scale&quot;/>&lt;data_defined_properties>&lt;Option type=&quot;Map&quot;>&lt;Option name=&quot;name&quot; value=&quot;&quot; type=&quot;QString&quot;/>&lt;Option name=&quot;properties&quot;/>&lt;Option name=&quot;type&quot; value=&quot;collection&quot; type=&quot;QString&quot;/>&lt;/Option>&lt;/data_defined_properties>&lt;/layer>&lt;/symbol>"></Option>
+              <Option name="lineSymbol" type="QString" value="&lt;symbol clip_to_extent=&quot;1&quot; alpha=&quot;1&quot; force_rhr=&quot;0&quot; type=&quot;line&quot; name=&quot;symbol&quot;>&lt;layer enabled=&quot;1&quot; pass=&quot;0&quot; class=&quot;SimpleLine&quot; locked=&quot;0&quot;>&lt;prop k=&quot;capstyle&quot; v=&quot;square&quot;/>&lt;prop k=&quot;customdash&quot; v=&quot;5;2&quot;/>&lt;prop k=&quot;customdash_map_unit_scale&quot; v=&quot;3x:0,0,0,0,0,0&quot;/>&lt;prop k=&quot;customdash_unit&quot; v=&quot;MM&quot;/>&lt;prop k=&quot;draw_inside_polygon&quot; v=&quot;0&quot;/>&lt;prop k=&quot;joinstyle&quot; v=&quot;bevel&quot;/>&lt;prop k=&quot;line_color&quot; v=&quot;60,60,60,255&quot;/>&lt;prop k=&quot;line_style&quot; v=&quot;solid&quot;/>&lt;prop k=&quot;line_width&quot; v=&quot;0.3&quot;/>&lt;prop k=&quot;line_width_unit&quot; v=&quot;MM&quot;/>&lt;prop k=&quot;offset&quot; v=&quot;0&quot;/>&lt;prop k=&quot;offset_map_unit_scale&quot; v=&quot;3x:0,0,0,0,0,0&quot;/>&lt;prop k=&quot;offset_unit&quot; v=&quot;MM&quot;/>&lt;prop k=&quot;ring_filter&quot; v=&quot;0&quot;/>&lt;prop k=&quot;use_custom_dash&quot; v=&quot;0&quot;/>&lt;prop k=&quot;width_map_unit_scale&quot; v=&quot;3x:0,0,0,0,0,0&quot;/>&lt;data_defined_properties>&lt;Option type=&quot;Map&quot;>&lt;Option type=&quot;QString&quot; name=&quot;name&quot; value=&quot;&quot;/>&lt;Option name=&quot;properties&quot;/>&lt;Option type=&quot;QString&quot; name=&quot;type&quot; value=&quot;collection&quot;/>&lt;/Option>&lt;/data_defined_properties>&lt;/layer>&lt;/symbol>"></Option>
               <Option name="minLength" type="double" value="0"></Option>
               <Option name="minLengthMapUnitScale" type="QString" value="3x:0,0,0,0,0,0"></Option>
               <Option name="minLengthUnit" type="QString" value="MM"></Option>
@@ -1080,7 +1080,7 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
           <value>population</value>
         </property>
         <property key="variableValues">
-          <value>62</value>
+          <value>64</value>
           <value>196053</value>
         </property>
       </customproperties>
@@ -1347,7 +1347,7 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
                   <Option name="properties" type="Map">
                     <Option name="fillColor" type="Map">
                       <Option name="active" type="bool" value="true"></Option>
-                      <Option name="expression" type="QString" value="with_variable(&#xA;  'infection_rate',&#xA;  @infections / @population * @infection_per_pop,&#xA;  CASE&#xA;    WHEN @infection_rate > @infection_range_5&#xA;&#x9;  THEN project_color('Range_5_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_4&#xA;&#x9;  THEN project_color('Range_4_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_3&#xA;&#x9;  THEN project_color('Range_3_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_2&#xA;&#x9;  THEN project_color('Range_2_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_1&#xA;&#x9;  THEN project_color('Range_1_Color')&#xA;&#x9;ELSE&#xA;&#x9;  project_color('Range_0_Color')&#xA;  END&#xA;)"></Option>
+                      <Option name="expression" type="QString" value="with_variable(&#xA;  'infection_rate',&#xA;  @infections / @population * @infection_per_pop,&#xA;  CASE&#xA;    WHEN @infection_rate > @infection_range_6&#xA;&#x9;  THEN project_color('Range_6_Color')&#xA;    WHEN @infection_rate > @infection_range_5&#xA;&#x9;  THEN project_color('Range_5_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_4&#xA;&#x9;  THEN project_color('Range_4_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_3&#xA;&#x9;  THEN project_color('Range_3_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_2&#xA;&#x9;  THEN project_color('Range_2_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_1&#xA;&#x9;  THEN project_color('Range_1_Color')&#xA;&#x9;ELSE&#xA;&#x9;  project_color('Range_0_Color')&#xA;  END&#xA;)"></Option>
                       <Option name="type" type="int" value="3"></Option>
                     </Option>
                     <Option name="outlineColor" type="Map">
@@ -1430,7 +1430,7 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
               </Option>
               <Option name="drawToAllParts" type="bool" value="false"></Option>
               <Option name="enabled" type="QString" value="0"></Option>
-              <Option name="lineSymbol" type="QString" value="&lt;symbol alpha=&quot;1&quot; clip_to_extent=&quot;1&quot; name=&quot;symbol&quot; force_rhr=&quot;0&quot; type=&quot;line&quot;>&lt;layer pass=&quot;0&quot; enabled=&quot;1&quot; locked=&quot;0&quot; class=&quot;SimpleLine&quot;>&lt;prop v=&quot;square&quot; k=&quot;capstyle&quot;/>&lt;prop v=&quot;5;2&quot; k=&quot;customdash&quot;/>&lt;prop v=&quot;3x:0,0,0,0,0,0&quot; k=&quot;customdash_map_unit_scale&quot;/>&lt;prop v=&quot;MM&quot; k=&quot;customdash_unit&quot;/>&lt;prop v=&quot;0&quot; k=&quot;draw_inside_polygon&quot;/>&lt;prop v=&quot;bevel&quot; k=&quot;joinstyle&quot;/>&lt;prop v=&quot;60,60,60,255&quot; k=&quot;line_color&quot;/>&lt;prop v=&quot;solid&quot; k=&quot;line_style&quot;/>&lt;prop v=&quot;0.3&quot; k=&quot;line_width&quot;/>&lt;prop v=&quot;MM&quot; k=&quot;line_width_unit&quot;/>&lt;prop v=&quot;0&quot; k=&quot;offset&quot;/>&lt;prop v=&quot;3x:0,0,0,0,0,0&quot; k=&quot;offset_map_unit_scale&quot;/>&lt;prop v=&quot;MM&quot; k=&quot;offset_unit&quot;/>&lt;prop v=&quot;0&quot; k=&quot;ring_filter&quot;/>&lt;prop v=&quot;0&quot; k=&quot;use_custom_dash&quot;/>&lt;prop v=&quot;3x:0,0,0,0,0,0&quot; k=&quot;width_map_unit_scale&quot;/>&lt;data_defined_properties>&lt;Option type=&quot;Map&quot;>&lt;Option name=&quot;name&quot; value=&quot;&quot; type=&quot;QString&quot;/>&lt;Option name=&quot;properties&quot;/>&lt;Option name=&quot;type&quot; value=&quot;collection&quot; type=&quot;QString&quot;/>&lt;/Option>&lt;/data_defined_properties>&lt;/layer>&lt;/symbol>"></Option>
+              <Option name="lineSymbol" type="QString" value="&lt;symbol clip_to_extent=&quot;1&quot; alpha=&quot;1&quot; force_rhr=&quot;0&quot; type=&quot;line&quot; name=&quot;symbol&quot;>&lt;layer enabled=&quot;1&quot; pass=&quot;0&quot; class=&quot;SimpleLine&quot; locked=&quot;0&quot;>&lt;prop k=&quot;capstyle&quot; v=&quot;square&quot;/>&lt;prop k=&quot;customdash&quot; v=&quot;5;2&quot;/>&lt;prop k=&quot;customdash_map_unit_scale&quot; v=&quot;3x:0,0,0,0,0,0&quot;/>&lt;prop k=&quot;customdash_unit&quot; v=&quot;MM&quot;/>&lt;prop k=&quot;draw_inside_polygon&quot; v=&quot;0&quot;/>&lt;prop k=&quot;joinstyle&quot; v=&quot;bevel&quot;/>&lt;prop k=&quot;line_color&quot; v=&quot;60,60,60,255&quot;/>&lt;prop k=&quot;line_style&quot; v=&quot;solid&quot;/>&lt;prop k=&quot;line_width&quot; v=&quot;0.3&quot;/>&lt;prop k=&quot;line_width_unit&quot; v=&quot;MM&quot;/>&lt;prop k=&quot;offset&quot; v=&quot;0&quot;/>&lt;prop k=&quot;offset_map_unit_scale&quot; v=&quot;3x:0,0,0,0,0,0&quot;/>&lt;prop k=&quot;offset_unit&quot; v=&quot;MM&quot;/>&lt;prop k=&quot;ring_filter&quot; v=&quot;0&quot;/>&lt;prop k=&quot;use_custom_dash&quot; v=&quot;0&quot;/>&lt;prop k=&quot;width_map_unit_scale&quot; v=&quot;3x:0,0,0,0,0,0&quot;/>&lt;data_defined_properties>&lt;Option type=&quot;Map&quot;>&lt;Option type=&quot;QString&quot; name=&quot;name&quot; value=&quot;&quot;/>&lt;Option name=&quot;properties&quot;/>&lt;Option type=&quot;QString&quot; name=&quot;type&quot; value=&quot;collection&quot;/>&lt;/Option>&lt;/data_defined_properties>&lt;/layer>&lt;/symbol>"></Option>
               <Option name="minLength" type="double" value="0"></Option>
               <Option name="minLengthMapUnitScale" type="QString" value="3x:0,0,0,0,0,0"></Option>
               <Option name="minLengthUnit" type="QString" value="MM"></Option>
@@ -1452,7 +1452,7 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
           <value>population</value>
         </property>
         <property key="variableValues">
-          <value>71</value>
+          <value>73</value>
           <value>300166</value>
         </property>
       </customproperties>
@@ -1719,7 +1719,7 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
                   <Option name="properties" type="Map">
                     <Option name="fillColor" type="Map">
                       <Option name="active" type="bool" value="true"></Option>
-                      <Option name="expression" type="QString" value="with_variable(&#xA;  'infection_rate',&#xA;  @infections / @population * @infection_per_pop,&#xA;  CASE&#xA;    WHEN @infection_rate > @infection_range_5&#xA;&#x9;  THEN project_color('Range_5_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_4&#xA;&#x9;  THEN project_color('Range_4_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_3&#xA;&#x9;  THEN project_color('Range_3_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_2&#xA;&#x9;  THEN project_color('Range_2_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_1&#xA;&#x9;  THEN project_color('Range_1_Color')&#xA;&#x9;ELSE&#xA;&#x9;  project_color('Range_0_Color')&#xA;  END&#xA;)"></Option>
+                      <Option name="expression" type="QString" value="with_variable(&#xA;  'infection_rate',&#xA;  @infections / @population * @infection_per_pop,&#xA;  CASE&#xA;    WHEN @infection_rate > @infection_range_6&#xA;&#x9;  THEN project_color('Range_6_Color')&#xA;    WHEN @infection_rate > @infection_range_5&#xA;&#x9;  THEN project_color('Range_5_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_4&#xA;&#x9;  THEN project_color('Range_4_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_3&#xA;&#x9;  THEN project_color('Range_3_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_2&#xA;&#x9;  THEN project_color('Range_2_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_1&#xA;&#x9;  THEN project_color('Range_1_Color')&#xA;&#x9;ELSE&#xA;&#x9;  project_color('Range_0_Color')&#xA;  END&#xA;)"></Option>
                       <Option name="type" type="int" value="3"></Option>
                     </Option>
                     <Option name="outlineColor" type="Map">
@@ -1802,7 +1802,7 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
               </Option>
               <Option name="drawToAllParts" type="bool" value="false"></Option>
               <Option name="enabled" type="QString" value="0"></Option>
-              <Option name="lineSymbol" type="QString" value="&lt;symbol alpha=&quot;1&quot; clip_to_extent=&quot;1&quot; name=&quot;symbol&quot; force_rhr=&quot;0&quot; type=&quot;line&quot;>&lt;layer pass=&quot;0&quot; enabled=&quot;1&quot; locked=&quot;0&quot; class=&quot;SimpleLine&quot;>&lt;prop v=&quot;square&quot; k=&quot;capstyle&quot;/>&lt;prop v=&quot;5;2&quot; k=&quot;customdash&quot;/>&lt;prop v=&quot;3x:0,0,0,0,0,0&quot; k=&quot;customdash_map_unit_scale&quot;/>&lt;prop v=&quot;MM&quot; k=&quot;customdash_unit&quot;/>&lt;prop v=&quot;0&quot; k=&quot;draw_inside_polygon&quot;/>&lt;prop v=&quot;bevel&quot; k=&quot;joinstyle&quot;/>&lt;prop v=&quot;60,60,60,255&quot; k=&quot;line_color&quot;/>&lt;prop v=&quot;solid&quot; k=&quot;line_style&quot;/>&lt;prop v=&quot;0.3&quot; k=&quot;line_width&quot;/>&lt;prop v=&quot;MM&quot; k=&quot;line_width_unit&quot;/>&lt;prop v=&quot;0&quot; k=&quot;offset&quot;/>&lt;prop v=&quot;3x:0,0,0,0,0,0&quot; k=&quot;offset_map_unit_scale&quot;/>&lt;prop v=&quot;MM&quot; k=&quot;offset_unit&quot;/>&lt;prop v=&quot;0&quot; k=&quot;ring_filter&quot;/>&lt;prop v=&quot;0&quot; k=&quot;use_custom_dash&quot;/>&lt;prop v=&quot;3x:0,0,0,0,0,0&quot; k=&quot;width_map_unit_scale&quot;/>&lt;data_defined_properties>&lt;Option type=&quot;Map&quot;>&lt;Option name=&quot;name&quot; value=&quot;&quot; type=&quot;QString&quot;/>&lt;Option name=&quot;properties&quot;/>&lt;Option name=&quot;type&quot; value=&quot;collection&quot; type=&quot;QString&quot;/>&lt;/Option>&lt;/data_defined_properties>&lt;/layer>&lt;/symbol>"></Option>
+              <Option name="lineSymbol" type="QString" value="&lt;symbol clip_to_extent=&quot;1&quot; alpha=&quot;1&quot; force_rhr=&quot;0&quot; type=&quot;line&quot; name=&quot;symbol&quot;>&lt;layer enabled=&quot;1&quot; pass=&quot;0&quot; class=&quot;SimpleLine&quot; locked=&quot;0&quot;>&lt;prop k=&quot;capstyle&quot; v=&quot;square&quot;/>&lt;prop k=&quot;customdash&quot; v=&quot;5;2&quot;/>&lt;prop k=&quot;customdash_map_unit_scale&quot; v=&quot;3x:0,0,0,0,0,0&quot;/>&lt;prop k=&quot;customdash_unit&quot; v=&quot;MM&quot;/>&lt;prop k=&quot;draw_inside_polygon&quot; v=&quot;0&quot;/>&lt;prop k=&quot;joinstyle&quot; v=&quot;bevel&quot;/>&lt;prop k=&quot;line_color&quot; v=&quot;60,60,60,255&quot;/>&lt;prop k=&quot;line_style&quot; v=&quot;solid&quot;/>&lt;prop k=&quot;line_width&quot; v=&quot;0.3&quot;/>&lt;prop k=&quot;line_width_unit&quot; v=&quot;MM&quot;/>&lt;prop k=&quot;offset&quot; v=&quot;0&quot;/>&lt;prop k=&quot;offset_map_unit_scale&quot; v=&quot;3x:0,0,0,0,0,0&quot;/>&lt;prop k=&quot;offset_unit&quot; v=&quot;MM&quot;/>&lt;prop k=&quot;ring_filter&quot; v=&quot;0&quot;/>&lt;prop k=&quot;use_custom_dash&quot; v=&quot;0&quot;/>&lt;prop k=&quot;width_map_unit_scale&quot; v=&quot;3x:0,0,0,0,0,0&quot;/>&lt;data_defined_properties>&lt;Option type=&quot;Map&quot;>&lt;Option type=&quot;QString&quot; name=&quot;name&quot; value=&quot;&quot;/>&lt;Option name=&quot;properties&quot;/>&lt;Option type=&quot;QString&quot; name=&quot;type&quot; value=&quot;collection&quot;/>&lt;/Option>&lt;/data_defined_properties>&lt;/layer>&lt;/symbol>"></Option>
               <Option name="minLength" type="double" value="0"></Option>
               <Option name="minLengthMapUnitScale" type="QString" value="3x:0,0,0,0,0,0"></Option>
               <Option name="minLengthUnit" type="QString" value="MM"></Option>
@@ -2091,7 +2091,7 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
                   <Option name="properties" type="Map">
                     <Option name="fillColor" type="Map">
                       <Option name="active" type="bool" value="true"></Option>
-                      <Option name="expression" type="QString" value="with_variable(&#xA;  'infection_rate',&#xA;  @infections / @population * @infection_per_pop,&#xA;  CASE&#xA;    WHEN @infection_rate > @infection_range_5&#xA;&#x9;  THEN project_color('Range_5_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_4&#xA;&#x9;  THEN project_color('Range_4_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_3&#xA;&#x9;  THEN project_color('Range_3_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_2&#xA;&#x9;  THEN project_color('Range_2_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_1&#xA;&#x9;  THEN project_color('Range_1_Color')&#xA;&#x9;ELSE&#xA;&#x9;  project_color('Range_0_Color')&#xA;  END&#xA;)"></Option>
+                      <Option name="expression" type="QString" value="with_variable(&#xA;  'infection_rate',&#xA;  @infections / @population * @infection_per_pop,&#xA;  CASE&#xA;    WHEN @infection_rate > @infection_range_6&#xA;&#x9;  THEN project_color('Range_6_Color')&#xA;    WHEN @infection_rate > @infection_range_5&#xA;&#x9;  THEN project_color('Range_5_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_4&#xA;&#x9;  THEN project_color('Range_4_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_3&#xA;&#x9;  THEN project_color('Range_3_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_2&#xA;&#x9;  THEN project_color('Range_2_Color')&#xA;&#x9;WHEN @infection_rate > @infection_range_1&#xA;&#x9;  THEN project_color('Range_1_Color')&#xA;&#x9;ELSE&#xA;&#x9;  project_color('Range_0_Color')&#xA;  END&#xA;)"></Option>
                       <Option name="type" type="int" value="3"></Option>
                     </Option>
                     <Option name="outlineColor" type="Map">
@@ -2174,7 +2174,7 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
               </Option>
               <Option name="drawToAllParts" type="bool" value="false"></Option>
               <Option name="enabled" type="QString" value="0"></Option>
-              <Option name="lineSymbol" type="QString" value="&lt;symbol alpha=&quot;1&quot; clip_to_extent=&quot;1&quot; name=&quot;symbol&quot; force_rhr=&quot;0&quot; type=&quot;line&quot;>&lt;layer pass=&quot;0&quot; enabled=&quot;1&quot; locked=&quot;0&quot; class=&quot;SimpleLine&quot;>&lt;prop v=&quot;square&quot; k=&quot;capstyle&quot;/>&lt;prop v=&quot;5;2&quot; k=&quot;customdash&quot;/>&lt;prop v=&quot;3x:0,0,0,0,0,0&quot; k=&quot;customdash_map_unit_scale&quot;/>&lt;prop v=&quot;MM&quot; k=&quot;customdash_unit&quot;/>&lt;prop v=&quot;0&quot; k=&quot;draw_inside_polygon&quot;/>&lt;prop v=&quot;bevel&quot; k=&quot;joinstyle&quot;/>&lt;prop v=&quot;60,60,60,255&quot; k=&quot;line_color&quot;/>&lt;prop v=&quot;solid&quot; k=&quot;line_style&quot;/>&lt;prop v=&quot;0.3&quot; k=&quot;line_width&quot;/>&lt;prop v=&quot;MM&quot; k=&quot;line_width_unit&quot;/>&lt;prop v=&quot;0&quot; k=&quot;offset&quot;/>&lt;prop v=&quot;3x:0,0,0,0,0,0&quot; k=&quot;offset_map_unit_scale&quot;/>&lt;prop v=&quot;MM&quot; k=&quot;offset_unit&quot;/>&lt;prop v=&quot;0&quot; k=&quot;ring_filter&quot;/>&lt;prop v=&quot;0&quot; k=&quot;use_custom_dash&quot;/>&lt;prop v=&quot;3x:0,0,0,0,0,0&quot; k=&quot;width_map_unit_scale&quot;/>&lt;data_defined_properties>&lt;Option type=&quot;Map&quot;>&lt;Option name=&quot;name&quot; value=&quot;&quot; type=&quot;QString&quot;/>&lt;Option name=&quot;properties&quot;/>&lt;Option name=&quot;type&quot; value=&quot;collection&quot; type=&quot;QString&quot;/>&lt;/Option>&lt;/data_defined_properties>&lt;/layer>&lt;/symbol>"></Option>
+              <Option name="lineSymbol" type="QString" value="&lt;symbol clip_to_extent=&quot;1&quot; alpha=&quot;1&quot; force_rhr=&quot;0&quot; type=&quot;line&quot; name=&quot;symbol&quot;>&lt;layer enabled=&quot;1&quot; pass=&quot;0&quot; class=&quot;SimpleLine&quot; locked=&quot;0&quot;>&lt;prop k=&quot;capstyle&quot; v=&quot;square&quot;/>&lt;prop k=&quot;customdash&quot; v=&quot;5;2&quot;/>&lt;prop k=&quot;customdash_map_unit_scale&quot; v=&quot;3x:0,0,0,0,0,0&quot;/>&lt;prop k=&quot;customdash_unit&quot; v=&quot;MM&quot;/>&lt;prop k=&quot;draw_inside_polygon&quot; v=&quot;0&quot;/>&lt;prop k=&quot;joinstyle&quot; v=&quot;bevel&quot;/>&lt;prop k=&quot;line_color&quot; v=&quot;60,60,60,255&quot;/>&lt;prop k=&quot;line_style&quot; v=&quot;solid&quot;/>&lt;prop k=&quot;line_width&quot; v=&quot;0.3&quot;/>&lt;prop k=&quot;line_width_unit&quot; v=&quot;MM&quot;/>&lt;prop k=&quot;offset&quot; v=&quot;0&quot;/>&lt;prop k=&quot;offset_map_unit_scale&quot; v=&quot;3x:0,0,0,0,0,0&quot;/>&lt;prop k=&quot;offset_unit&quot; v=&quot;MM&quot;/>&lt;prop k=&quot;ring_filter&quot; v=&quot;0&quot;/>&lt;prop k=&quot;use_custom_dash&quot; v=&quot;0&quot;/>&lt;prop k=&quot;width_map_unit_scale&quot; v=&quot;3x:0,0,0,0,0,0&quot;/>&lt;data_defined_properties>&lt;Option type=&quot;Map&quot;>&lt;Option type=&quot;QString&quot; name=&quot;name&quot; value=&quot;&quot;/>&lt;Option name=&quot;properties&quot;/>&lt;Option type=&quot;QString&quot; name=&quot;type&quot; value=&quot;collection&quot;/>&lt;/Option>&lt;/data_defined_properties>&lt;/layer>&lt;/symbol>"></Option>
               <Option name="minLength" type="double" value="0"></Option>
               <Option name="minLengthMapUnitScale" type="QString" value="3x:0,0,0,0,0,0"></Option>
               <Option name="minLengthUnit" type="QString" value="MM"></Option>
@@ -2196,7 +2196,7 @@ Adapted from Statistics Canada, Health Regions: Boundaries and Correspondence wi
           <value>population</value>
         </property>
         <property key="variableValues">
-          <value>22</value>
+          <value>28</value>
           <value>37286</value>
         </property>
       </customproperties>
@@ -2410,17 +2410,17 @@ def my_form_open(dialog, layer, feature):
     </PAL>
     <Palette>
       <Colors type="QStringList">
+        <value>48,0,0,255</value>
         <value>144,0,0,255</value>
-        <value>200,2,0,255</value>
+        <value>200,0,0,255</value>
         <value>238,112,112,255</value>
         <value>255,192,192,255</value>
-        <value>255,223,224,255</value>
+        <value>255,224,224,255</value>
         <value>224,224,224,255</value>
         <value>255,255,255,255</value>
-        <value>63,63,63,255</value>
-        <value>223,223,223,255</value>
       </Colors>
       <Labels type="QStringList">
+        <value>Range_6_Color</value>
         <value>Range_5_Color</value>
         <value>Range_4_Color</value>
         <value>Range_3_Color</value>
@@ -2428,8 +2428,6 @@ def my_form_open(dialog, layer, feature):
         <value>Range_1_Color</value>
         <value>Range_0_Color</value>
         <value>Border_Color</value>
-        <value>Dark text (#3f3f3f)</value>
-        <value>Light text (#dfdfdf)</value>
       </Labels>
     </Palette>
     <Paths>
@@ -2454,6 +2452,7 @@ def my_form_open(dialog, layer, feature):
         <value>infection_range_3</value>
         <value>infection_range_4</value>
         <value>infection_range_5</value>
+        <value>infection_range_6</value>
       </variableNames>
       <variableValues type="QStringList">
         <value>3</value>
@@ -2461,10 +2460,11 @@ def my_form_open(dialog, layer, feature):
         <value>K</value>
         <value>100000</value>
         <value>0</value>
-        <value>12</value>
-        <value>24</value>
-        <value>36</value>
-        <value>48</value>
+        <value>20</value>
+        <value>40</value>
+        <value>60</value>
+        <value>80</value>
+        <value>100</value>
       </variableValues>
     </Variables>
     <WCSLayers type="QStringList"></WCSLayers>
