@@ -11,6 +11,8 @@ This repository contains the [QGIS](<https://qgis.org/> "QGIS") and [Inkscape](<
 
 * [Saskatchewan COVID-19 Infection Rates.svg](<Saskatchewan COVID-19 Infection Rates.svg>)
 
+![Saskatchewan COVID-19 infection rates](<https://github.com/HolySpicoli/WikimediaCommonsFile-Saskatchewan_COVID-19_Infection_Rates.svg/raw/master/Release/Saskatchewan_COVID-19_Infection_Rates.png>)
+
 ## Build Environment
 
 To do: document the environment (software dependencies, etc.) needed to build the project.
